@@ -3,7 +3,7 @@ const defaultOptions = {
   color: 'primary',
   isRange: false,
   allowSameDayRange: true,
-  lang: navigator.language.substring(0, 2) || 'en', // internationalization
+  lang: 'en', // internationalization
   dateFormat: 'MM/DD/YYYY',
   timeFormat: 'HH:mm',
   displayMode: 'default',
